@@ -1,9 +1,18 @@
 ---
 title: Python
 parent: UNIZD
-permalink: /python
-nav_order: 2
+nav_order: 1
 ---
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
 
 # The Zen of Python, by Tim Peters
 
