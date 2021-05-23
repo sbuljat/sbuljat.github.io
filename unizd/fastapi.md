@@ -1,7 +1,6 @@
 ---
 title: Fast API
-parent: Razvoj web aplikacija
-grand_parent: UNIZD
+parent: UNIZD
 nav_order: 1
 ---
 
