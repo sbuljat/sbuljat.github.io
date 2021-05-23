@@ -1,6 +1,6 @@
 ---
-title: Child of Test
-parent: Test
+title: Razvoj web aplikacija
+parent: UNIZD
 has_children: true
 nav_order: 1
 ---
