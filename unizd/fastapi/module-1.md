@@ -4,7 +4,7 @@ nav_exclude: true
 ---
 
 NOVO
-{: .label .label-purple }
+{: .label .label-blue }
 
 ## Uvod u Fast API
 
